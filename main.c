@@ -90,7 +90,6 @@ static int do_exec(int argc, char *argv[])
 {
 	char **args;
 	int nargs = argc + 1;
-	int ret;
 
 	args = alloca(sizeof(char *) * nargs);
 	memset(args, 0, sizeof(char *) * nargs);
