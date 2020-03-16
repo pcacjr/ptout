@@ -1,0 +1,12 @@
+ptout
+=====
+
+Extract output from a program running under a fake PTY.
+
+ptout is licensed under the GPLv3 and originally written by
+Paulo Alcantara <pc@cjr.nz>. See LICENSE for more details.
+
+Building
+========
+
+$ make
